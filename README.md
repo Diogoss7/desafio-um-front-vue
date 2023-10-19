@@ -7,7 +7,7 @@ registrando, editando e apagando orçamentos.
 
 Visual Studio Code
 
-## As bibliotecas externas usadas neste projeto foram
+## Bibliotecas externas usadas neste projeto
 
  font-awesome-icon
  sweetalert2
@@ -16,5 +16,5 @@ Visual Studio Code
 
  ## Start Project
   npm install
-  
+  npm run dev
  
